@@ -1,9 +1,4 @@
-Type,Indicator,Description
-IP,45.77.89.23,Malicious IP address
-Domain,badsite.example.com,Malicious domain name
-URL,http://evil.example.com,Malicious URL
-FileHash_MD5,d41d8cd98f00b204e9800998ecf8427e,Known malicious file hash (MD5)
-FileHash_SHA1,da39a3ee5e6b4b0d3255bfef95601890afd80709,Known SHA1 file hash
-FileHash_SHA256,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,Known SHA256 file hash
-FileHash_SHA257,dbc951b4ab01646888b2a91da73a94dd920054c2f27c8cfeacae3eba298e71b0,Known SHA256 file hash
+Indicator,Type
+dbc951b4ab01646888b2a91da73a94dd920054c2f27c8cfeacae3eba298e71b0,FileHash_SHA256
+
 
