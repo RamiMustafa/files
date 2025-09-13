@@ -1,4 +1,5 @@
-Indicator,Type
-dbc951b4ab01646888b2a91da73a94dd920054c2f27c8cfeacae3eba298e71b0,FileHash_SHA256
+Indicator,ioc_type
+dbc951b4ab01646888b2a91da73a94dd920054c2f27c8cfeacae3eba298e71b0,Hash
+
 
 
